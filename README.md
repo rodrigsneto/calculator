@@ -1,4 +1,4 @@
-# Calculator
+# 🧮 Calculator
 
 Projeto: Criar uma calculadora com HTML CSS e Javascript puro.
 
