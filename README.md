@@ -9,7 +9,7 @@ Projeto que fiz para praticar o uso de Javascript no front-end
 ### 🤺 O que pratiquei:
 
 
-***Injeção*** de Javascript em HTML.
+* ***Injeção*** de Javascript em HTML.
 
 * ***DOM*** - Manipulando Elementos HTML com Javascript.
 
